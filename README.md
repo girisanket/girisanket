@@ -2,7 +2,6 @@
                 👀 I am interested in Web Dev. but mainly focus on backend technologies,
                 🌱 I am currently learning C Sharp and Angular,
                 📫 sanketgiri66@gmail.com - The portal to make a reach out to me ;
-                
             }  );
 
 <!---
